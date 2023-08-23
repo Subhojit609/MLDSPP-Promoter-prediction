@@ -17,6 +17,7 @@ You can install the required libraries using the following command:
 ```bash
 pip install pandas scikit-learn xgboost numpy
 
+```
 
 Deployed Application
 You can access the deployed application at the following URL: https://mldspp-app-promoter.streamlit.app/
