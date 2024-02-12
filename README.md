@@ -22,3 +22,6 @@ pip install pandas scikit-learn xgboost numpy
 ## Deployed Application
 You can access the deployed application at the following URL: https://mldspp-app-promoter.streamlit.app/
 
+## Published Research Paper
+Paul.S et al., JCIM, 2024
+https://doi.org/10.1021/acs.jcim.3c02017
