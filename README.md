@@ -3,8 +3,8 @@
 This guide provides instructions on how to use the machine learning model implemented in the provided code to perform classification tasks.
 
 
-https://github.com/Subhojit609/MLDSPP-Promoter-prediction/blob/main/Figure%201%20paper.png
-## The comprehensive framework adopted for MLDSPP in this study
+![image](https://github.com/Subhojit609/MLDSPP-Promoter-prediction/blob/main/Figure%201%20paper.png)
+## Figure: The comprehensive framework adopted for MLDSPP in this study
 
 ## Requirements
 
